@@ -1,0 +1,7 @@
+[project]
+name = "lstm-stock-prediction"
+version = "0.1.0"
+description = "This project leverages LSTM RNNs and popular Python libraries to build a robust stock price prediction model, providing insights into future market trends using deep learning techniques."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
